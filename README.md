@@ -9,3 +9,7 @@ Python codes with Slack integration
 ### Codes : Send sensor output
 - Python3 scripts
 - Slack webhook and API
+
+### Proof is in the pudding
+![Camera module and PIR sensor](https://github.com/bencarpena/arcturus-py/blob/master/infra-camera.jpg)
+![Slack mobile app output](https://github.com/bencarpena/arcturus-py/blob/master/slack-pir-res.jpg)
