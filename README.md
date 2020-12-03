@@ -7,7 +7,7 @@ Python codes with Slack integration
 - Passive Infrared sensor
 
 ### Codes : Send sensor output
-- Python3 scripts
+- Python3 code
 - Slack webhook and API
 
 ### Proof is in the pudding
