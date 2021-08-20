@@ -6,7 +6,7 @@ Python codes with Slack integration
 - Raspberry Camera module
 - Passive Infrared sensor
 
-### Codes : Send sensor output
+### Codes : Respond
 - Python3 code
 - Slack webhook and API
 
