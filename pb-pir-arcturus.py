@@ -72,7 +72,7 @@ try:
 			import datetime
 			import slack
 			from slack import WebClient
-			client = slack.WebClient('xoxb-65858531189-1145206050005-82YUTATzuuUQYSQQDG9n7LVu')
+			client = slack.WebClient('xoxb-xxxxxx-xxx-xxxxxxxxxx')
 			TakePic = 'raspistill -o /home/pi/Scripts/Camera/77389-garage.jpg -ISO 200 -ev 10'
 			os.system(TakePic)
 			response = client.files_upload(
