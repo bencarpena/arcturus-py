@@ -11,8 +11,13 @@
 - Raspberry Camera module
 - Passive Infrared sensor
 
-### Proof is in the pudding
+### Proof is in the pudding (20210819)
 ![Camera module and PIR sensor](https://github.com/bencarpena/arcturus-py/blob/master/infra-camera.jpg)
 ![Slack mobile app output](https://github.com/bencarpena/arcturus-py/blob/master/slack-pir-res.jpg)
 
-### Change log:
+### Proof is in the pudding (20230117)
+![Bob housing unit](https://github.com/bencarpena/arcturus-py/blob/master/Bob-house.jpg)
+![Bob Left](https://github.com/bencarpena/arcturus-py/blob/master/Bob-Left.jpg)
+![Bob Right](https://github.com/bencarpena/arcturus-py/blob/master/Bob-Right.jpg)
+![Bob Unveil](https://github.com/bencarpena/arcturus-py/blob/master/Bob-unveil.jpg)
+![Bob Slack output](https://github.com/bencarpena/arcturus-py/blob/master/Bob-output.jpg)
